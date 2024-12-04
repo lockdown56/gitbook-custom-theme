@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "theme-default",
+    "expandable-chapters-small"
+  ],
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "pluginsConfig": {
+
+  }
+}
